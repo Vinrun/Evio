@@ -1,0 +1,13 @@
+# Ignore artifacts
+/dist/*
+.husky
+.vscode
+public
+/node_modules/**
+
+# Ignore files
+**/.git
+**/.svn
+**/.hg
+**/.yaml
+src/**/*.d.ts
