@@ -17,6 +17,8 @@
     "commit": "git add . && git-cz"
   },
   "dependencies": {
+    "antd": "^5.13.2",
+    "dayjs": "^1.11.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -40,6 +42,7 @@
     "lint-staged": "^15.2.0",
     "prettier": "^3.2.1",
     "typescript": "^5.2.2",
-    "vite": "^5.0.8"
+    "vite": "^5.0.8",
+    "zustand": "^4.5.0"
   }
 }
